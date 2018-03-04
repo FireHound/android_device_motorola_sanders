@@ -328,4 +328,7 @@
    <!-- Whether the device has hardware keys present -->
    <bool name="config_hardwareKeysPresent">false</bool>
 
+    <!-- Whether device has turbo power charging support -->
+    <bool name="config_hasTurboPowerCharger">true</bool>
+
 </resources>
