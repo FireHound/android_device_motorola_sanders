@@ -1,11 +1,11 @@
 [
   {
-    "repository":  "DirtyUnicorn-Sanders/kernel_motorola_msm8953",
+    "repository":  "rajadeja/kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
     "branch":      "o8x-caf"
   },
   {
-    "repository":  "Keertesh19/vendor_motorola_sanders-1",
+    "repository":  "rajadeja/vendor_motorola_sanders",
     "target_path": "vendor/motorola/sanders",
     "branch":      "oreo-mr1"
   },  
