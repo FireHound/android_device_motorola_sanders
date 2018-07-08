@@ -1,18 +1,15 @@
 [
   {
-    "remote":      "github",
     "repository":  "DirtyUnicorn-Sanders/kernel_motorola_msm8953",
     "target_path": "kernel/motorola/msm8953",
     "branch":      "o8x-caf"
   },
   {
-    "remote":      "github",
     "repository":  "Keertesh19/vendor_motorola_sanders-1",
     "target_path": "vendor/motorola/sanders",
     "branch":      "oreo-mr1"
   },  
   {
-    "remote":      "github", 
     "repository":  "LineageOS/android_packages_resources_devicesettings",
     "target_path": "packages/resources/devicesettings",
     "branch":      "lineage-15.1"
