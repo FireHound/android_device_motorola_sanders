@@ -325,4 +325,7 @@
    <!-- Should the pinner service pin the Camera application? -->
    <bool name="config_pinnerCameraApp">true</bool>
 
+   <!-- Whether the device has hardware keys present -->
+   <bool name="config_hardwareKeysPresent">false</bool>
+
 </resources>
